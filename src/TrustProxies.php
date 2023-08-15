@@ -1,6 +1,6 @@
 <?php
 
-namespace Fideloper\Proxy;
+namespace Coolchi\Proxy;
 
 use Closure;
 use Illuminate\Http\Request;

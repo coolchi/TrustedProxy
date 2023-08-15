@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Fideloper\\Proxy\\": "src/"
+            "Coolchi\\Proxy\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Fideloper\\Proxy\\TrustedProxyServiceProvider"
+                "Coolchi\\Proxy\\TrustedProxyServiceProvider"
             ]
         }
     },

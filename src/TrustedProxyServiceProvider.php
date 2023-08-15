@@ -1,6 +1,6 @@
 <?php
 
-namespace Fideloper\Proxy;
+namespace Coolchi\Proxy;
 
 use Illuminate\Foundation\Application as LaravelApplication;
 use Illuminate\Support\ServiceProvider;
