@@ -1,12 +1,12 @@
 {
-    "name": "fideloper/proxy",
+    "name": "coolchi/proxy",
     "description": "Set trusted proxies for Laravel",
     "keywords": ["proxy", "trusted proxy", "load balancing"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Chris Fidao",
-            "email": "fideloper@gmail.com"
+            "name": "Coolchi sherif",
+            "email": "coolchi01@gmail.com"
         }
     ],
     "require": {
